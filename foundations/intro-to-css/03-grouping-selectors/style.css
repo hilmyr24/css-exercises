@@ -1,0 +1,15 @@
+.bgblack,
+.bgyellow {
+    font-family: Helvetica, 'Times New Roman', sans-serif;
+    font-size: 28px;
+}
+
+.bgblack {
+    background-color: black;
+    color: white;
+}
+
+.bgyellow {
+    background-color: yellow;
+    color: black;
+}
